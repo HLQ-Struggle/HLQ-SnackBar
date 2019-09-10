@@ -1,0 +1,2 @@
+include ':app', ':TopCenterSnackbar'
+rootProject.name='HLQ-SnackBar'
